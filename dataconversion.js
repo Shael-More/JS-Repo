@@ -19,3 +19,23 @@ let valueInNumber = Number(score)
 // 1 => true; 0 => false;
 // "" => false
 // "sd" => true
+
+// ************************************* Operations **************
+
+let val = 3
+let negVal = -val
+// console.log(negVal) = -3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
