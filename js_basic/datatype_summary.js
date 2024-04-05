@@ -28,11 +28,19 @@ const email = undefined
 
 const aplhabets = ['a', 'b' , 'c']
 
-console.log(typeof aplhabets)
+// console.log(typeof aplhabets)
 
 
 const myFunction = function() {
-    console.log("Hello World")
+    // console.log("Hello World")
 }
 
-console.log(typeof myFunction)
+// console.log(typeof myFunction)
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non Primmitive)
+
+
