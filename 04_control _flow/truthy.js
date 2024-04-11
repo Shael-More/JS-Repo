@@ -21,7 +21,8 @@ if(Object.keys(obj).length === 0) {
 // Nullishing Coalescing Operator (??): works on null and undefined
 
 let val1;
-val1 = null ?? 10
+val1 = null ?? 10  // 10
+val1 = undefined ?? 10 // 10
 
 console.log(val1);
 
